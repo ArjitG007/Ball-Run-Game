@@ -3,6 +3,11 @@ Here's the BALL RUN GAME using UNITY and C#.
 
 Here are some of the in game SreenShots.
 
+About the Game Play- 
+Basically there is a Ball lying down on an uneasy narrow surface along with many golden coins.
+We have to run through the surface and keep on collecting the coins.
+Once all the coins will be collected, the game will get Finished.
+
 ![2021-02-16 (5)](https://user-images.githubusercontent.com/73219080/108047929-66e51480-706c-11eb-91c7-1f13c900ec6b.png)
 
 MENU PAGE-
